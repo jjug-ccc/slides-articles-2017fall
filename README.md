@@ -10,6 +10,8 @@
 - L-1 [SpringBootとMyBatisでデータベースを可視化する](https://speakerdeck.com/higedrum/springboottomybatisdedetabesuwoke-shi-hua-suru) by Koji Sudo
 
 ### 11:00-11:45
+- C-2 [Apache Camel + hawtio + Spring Boot によるモダンなインテグレーション・マイクロサービス](https://tadayosi.github.io/jjug2017-camel_hawtio_springboot/reveal.js/index.html) by 佐藤 匡剛
+    - デモ: https://github.com/tadayosi/demo-camel-hawtio-springboot
 - m-2 [ユニットテストのアサーション 流れるようなインターフェースのAssertJを添えて 入門者仕立て](https://www.slideshare.net/RyosukeUchitate/assertj-82260732) 内立良介
 
 ### ランチセッション
