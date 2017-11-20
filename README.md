@@ -43,6 +43,6 @@
 
 ## ブログ記事
 
-- [JJUG CCC 2017 Fall に参加した - nashcft's blog](http://nashcft.hatenablog.com/entry/2017/11/19/152
-- [JJUG CCC 2017 Fall初参加&ボランティアレポート](http://hiroga.hatenablog.com/entry/2017/11/19/165240)↲
+- [JJUG CCC 2017 Fall に参加した - nashcft's blog](http://nashcft.hatenablog.com/entry/2017/11/19/152)
+- [JJUG CCC 2017 Fall初参加&ボランティアレポート](http://hiroga.hatenablog.com/entry/2017/11/19/165240)
 - [JJUG CCC Fall 2017でしゃべってきた。 - PoohSunny's blog](http://poohsunny.hatenablog.com/entry/2017/11/20/204820)
