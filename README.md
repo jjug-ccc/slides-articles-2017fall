@@ -21,6 +21,9 @@
 - m-5 [劇的改善 CI４時間から５分へ 〜私がやった１０のこと〜](https://www.slideshare.net/aha_oretama/ci-82258405) [@AHA_oretama](https://twitter.com/AHA_oretama)
 
 ### 14:30-15:15
+
+- E-4 [Java SE 9の紹介: モジュール・システムを中心に](https://www.slideshare.net/miyakawataku/introduction-of-java-se-9-and-the-module-system) by 宮川拓
+
 - m-6 [Docker ではじめる Java EE アプリケーション開発](https://www.slideshare.net/KoheiSaito2/docker-java-ee-for-jjug-ccc-2017) 齋藤耕平
 
 - m-7 [Stream API の代わりに Eclipse Collections を使ってみた話](http://slides.com/nashcft/jjug_ccc_2017_fall/) Nagahori Shota
