@@ -30,6 +30,7 @@
 - m-7 [Stream API の代わりに Eclipse Collections を使ってみた話](http://slides.com/nashcft/jjug_ccc_2017_fall/) Nagahori Shota
 
 ### 15:45-16:30
+- m-8 [高速なソートアルゴリズムを書こう！！](https://www.slideshare.net/masakazumatsubara1/ss-82272241) 松原正和
 - m-9 [Design Pattern in presto source code]( https://www.slideshare.net/techblogyahoo/design-pattern-in-presto-source-code ) by 曾　臻
 
 
