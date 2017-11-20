@@ -16,6 +16,8 @@
 
 ### 13:30-14:15
 
+- m-5 [劇的改善 CI４時間から５分へ 〜私がやった１０のこと〜](https://www.slideshare.net/aha_oretama/ci-82258405) [@AHA_oretama](https://twitter.com/AHA_oretama)
+
 ### 14:30-15:15
 - m-6 [Docker ではじめる Java EE アプリケーション開発](https://www.slideshare.net/KoheiSaito2/docker-java-ee-for-jjug-ccc-2017) 齋藤耕平
 
