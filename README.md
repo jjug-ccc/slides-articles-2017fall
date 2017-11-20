@@ -42,6 +42,7 @@
 ### 懇親会LT
 
 - [マイクロサービス・アーキテクチャに絶対必要な FaaS をOpenFaaS（Java）で実現する。](https://www.slideshare.net/ukitiyan/faas-openfaasjava)
+- [Spring Boot の容量を減らしてみた](https://qiita.com/opengl-8080/items/5d8bef61b18dc92e35e2) by opengl-8080
 
 ## ブログ記事
 
