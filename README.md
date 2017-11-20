@@ -7,6 +7,7 @@
 - J-1 [託児室へようこそ](http://www.alpha-co.com/) by JJUGスタッフ
 
 ### 10:00-10:45
+- C-1 [Selenide or Geb？ あなたはそのときどちらを使う？](https://www.slideshare.net/youtaroutakahashi/selenide-or-geb) 島根 義和 & 高橋 陽太郎
 - L-1 [SpringBootとMyBatisでデータベースを可視化する](https://speakerdeck.com/higedrum/springboottomybatisdedetabesuwoke-shi-hua-suru) by Koji Sudo
 
 ### 11:00-11:45
@@ -38,3 +39,4 @@
 ## ブログ記事
 
 - [JJUG CCC 2017 Fall に参加した - nashcft's blog](http://nashcft.hatenablog.com/entry/2017/11/19/152624)
+- [JJUG CCC Fall 2017でしゃべってきた。 - PoohSunny's blog](http://poohsunny.hatenablog.com/entry/2017/11/20/204820)
