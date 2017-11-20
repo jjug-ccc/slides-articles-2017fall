@@ -24,9 +24,8 @@
 ### 14:30-15:15
 
 - E-4 [Java SE 9の紹介: モジュール・システムを中心に](https://www.slideshare.net/miyakawataku/introduction-of-java-se-9-and-the-module-system) by 宮川拓
-
+- G-4 [Spring Security にできること・できないこと](https://qiita.com/opengl-8080/items/6dc37f8b77abb5ae1642) by opengl-8080
 - m-6 [Docker ではじめる Java EE アプリケーション開発](https://www.slideshare.net/KoheiSaito2/docker-java-ee-for-jjug-ccc-2017) 齋藤耕平
-
 - m-7 [Stream API の代わりに Eclipse Collections を使ってみた話](http://slides.com/nashcft/jjug_ccc_2017_fall/) Nagahori Shota
 
 ### 15:45-16:30
