@@ -35,6 +35,8 @@
 
 ### 16:45-17:30
 
+- e-6 [Spring BootとKafkaでCQRS](http://bufferings.hatenablog.com/entry/2017/11/20/221215) by Mitsuyuki Shiiba([@bufferings](https://twitter.com/bufferings))
+
 ### 17:45-18:30
 
 ### 懇親会LT
