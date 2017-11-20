@@ -29,6 +29,8 @@
 
 ### 懇親会LT
 
+- [マイクロサービス・アーキテクチャに絶対必要な FaaS をOpenFaaS（Java）で実現する。](https://www.slideshare.net/ukitiyan/faas-openfaasjava)
+
 ## ブログ記事
 
 - [JJUG CCC 2017 Fall に参加した - nashcft's blog](http://nashcft.hatenablog.com/entry/2017/11/19/152624)
