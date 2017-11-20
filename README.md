@@ -17,6 +17,8 @@
 
 ### 14:30-15:15
 
+- m-7 [Stream API の代わりに Eclipse Collections を使ってみた話](http://slides.com/nashcft/jjug_ccc_2017_fall/) Nagahori Shota
+
 ### 15:45-16:30
 
 ### 16:45-17:30
@@ -27,4 +29,4 @@
 
 ## ブログ記事
 
-
+- [JJUG CCC 2017 Fall に参加した - nashcft's blog](http://nashcft.hatenablog.com/entry/2017/11/19/152624)
