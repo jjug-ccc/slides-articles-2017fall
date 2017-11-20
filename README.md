@@ -17,6 +17,7 @@
 ### 13:30-14:15
 
 ### 14:30-15:15
+- m-6 [Docker ではじめる Java EE アプリケーション開発](https://www.slideshare.net/KoheiSaito2/docker-java-ee-for-jjug-ccc-2017) 齋藤耕平
 
 - m-7 [Stream API の代わりに Eclipse Collections を使ってみた話](http://slides.com/nashcft/jjug_ccc_2017_fall/) Nagahori Shota
 
