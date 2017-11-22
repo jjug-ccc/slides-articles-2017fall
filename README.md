@@ -17,6 +17,7 @@
 - A-2 [サンプルアプリケーションで学ぶApache Cassandraを使ったJavaアプリケーションの作り方](https://www.slideshare.net/yukim/apache-cassandrajava) by 森下 雄貴
 - C-2 [Apache Camel + hawtio + Spring Boot によるモダンなインテグレーション・マイクロサービス](https://tadayosi.github.io/jjug2017-camel_hawtio_springboot/reveal.js/index.html) by 佐藤 匡剛
     - デモ: https://github.com/tadayosi/demo-camel-hawtio-springboot
+- E-2 [OpenJDK 参加入門](https://www.slideshare.net/YujiSoftware/jep280-java-9) by David Buck
 - G-2 [10年前のレガシーシステムをサーバーサイドKotlinでフルリニューアルしている話](https://speakerdeck.com/maeharin/10nian-qian-falseregasisisutemuwosabasaidokotlindehururiniyuarusiteiruhua-number-jjug-ccc-number-ccc-g2) by 前原 秀徳
 - L-2 [JVM上で動くPython処理系実装のススメ](https://www.slideshare.net/yotchang4s/cafebabepyjjugcccfall2017) by 澁谷 典明(Yoshiaki Shibutani)
 - m-2 [ユニットテストのアサーション 流れるようなインターフェースのAssertJを添えて 入門者仕立て](https://www.slideshare.net/RyosukeUchitate/assertj-82260732) 内立良介
