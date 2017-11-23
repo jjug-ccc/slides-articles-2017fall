@@ -73,3 +73,4 @@
 - [JJUG CCC Fall 2017でしゃべってきた。 - PoohSunny's blog](http://poohsunny.hatenablog.com/entry/2017/11/20/204820)
 - [JJUG CCC 2017 Fall ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く](http://d.hatena.ne.jp/chiheisen/20171119/1511042292)
 - [JJUGで発表してきました #jjug_ccc #ccc_l1 - ジムには乗りたい](http://su-kun1899.hatenablog.com/entry/2017/11/20/231100)
+- [JJUG CCC 2017 Fallに参加してきました #jjug_ccc - open build/reports/life/index.html](https://www.grimrose.org/blog/2017/11/jjug-ccc-2017/)
