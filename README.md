@@ -52,6 +52,9 @@
 ### 16:45-17:30
 - A-6 [ついに来たリアルタイムSpark～ビッグデータ処理の新常識・SnappyDataの実力～](https://www.slideshare.net/MasakiYamakawa/20171118-jjug-snappydata) by 山河 征紀
 - e-6 [Spring BootとKafkaでCQRS](http://bufferings.hatenablog.com/entry/2017/11/20/221215) by Mitsuyuki Shiiba([@bufferings](https://twitter.com/bufferings))
+- G-6 [新しいプログラミング言語の学び方 
+HTTPサーバーを作って学ぶJava, Scala, Clojure
+](https://speakerdeck.com/todokr/xin-siihurokuraminkuyan-yu-falsexue-hifang-httpsahawozuo-tutexue-hu-java-scala-clojure) by 田所 駿佑([@todokr](https://twitter.com/todokr))
 - M-10 [Javaで使えるもう一つのコンパイル方式 - AOT](https://www.slideshare.net/akihironishikawa/another-compilation-method-in-java-aot-ahead-of-time-compilation-82258865) by 西川 彰広
 - M-11 [DBのTCPプロトコルとJDBC](https://docs.google.com/presentation/d/1xSwS73_iTPyMKdtXUUiwawJ05XaS-gFRkOeYLgu8mLI/edit#slide=id.p) by yohei yamana
 
