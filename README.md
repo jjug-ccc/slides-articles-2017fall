@@ -35,6 +35,7 @@
 - m-5 [劇的改善 CI４時間から５分へ 〜私がやった１０のこと〜](https://www.slideshare.net/aha_oretama/ci-82258405) [@AHA_oretama](https://twitter.com/AHA_oretama)
 
 ### 14:30-15:15
+- A-4 [ヤフー発のメッセージキュー「Pulsar」のご紹介](https://www.slideshare.net/techblogyahoo/pulsar-82786963) by 坂本 雅宏
 - E-4 [Java SE 9の紹介: モジュール・システムを中心に](https://www.slideshare.net/miyakawataku/introduction-of-java-se-9-and-the-module-system) by 宮川拓
 - C-4 [ゴールドマン・サックスにおけるCamundaを用いたビジネスプロセスの可視化とワークフローの自動化](https://www.slideshare.net/tatsuyafky/business-process-modeling-in-goldman-sachs-jjug-ccc-fall-2017-82246376) by 福井達也、石井すみれ
 - G-4 [Spring Security にできること・できないこと](https://qiita.com/opengl-8080/items/6dc37f8b77abb5ae1642) by opengl-8080
