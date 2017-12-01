@@ -60,6 +60,7 @@ HTTPサーバーを作って学ぶJava, Scala, Clojure
 - M-11 [DBのTCPプロトコルとJDBC](https://docs.google.com/presentation/d/1xSwS73_iTPyMKdtXUUiwawJ05XaS-gFRkOeYLgu8mLI/edit#slide=id.p) by yohei yamana
 
 ### 17:45-18:30
+- A-7 [Java でつくる本格形態素解析器](https://www.slideshare.net/WorksApplications/java-82794239) by 高岡一馬([@klmquasi](https://twitter.com/klmquasi))
 - C-7 [CPUから見たG1GC](https://www.slideshare.net/kenjikazumura/cpug1gc) by 数村憲治
 - G-7 [最近のDeep Learning事情とJava](https://speakerdeck.com/yotakahashi/zui-jin-falsedeep-learningshi-qing-tojava) by EVGENIY(&#37060;橋良貴)
 
