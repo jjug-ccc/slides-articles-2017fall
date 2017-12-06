@@ -65,6 +65,7 @@ HTTPサーバーを作って学ぶJava, Scala, Clojure
 - G-7 [最近のDeep Learning事情とJava](https://speakerdeck.com/yotakahashi/zui-jin-falsedeep-learningshi-qing-tojava) by EVGENIY(&#37060;橋良貴)
 
 ### 懇親会LT
+- [サーバーサイド出身のフロントエンドエンジニアが変える現場](https://speakerdeck.com/uggds/sabasaidochu-shen-falsehurontoendoenziniagabian-eruxian-chang) by UGA
 - [マイクロサービス・アーキテクチャに絶対必要な FaaS をOpenFaaS（Java）で実現する。](https://www.slideshare.net/ukitiyan/faas-openfaasjava)
 - [Spring Boot の容量を減らしてみた](https://qiita.com/opengl-8080/items/5d8bef61b18dc92e35e2) by opengl-8080
 - [やってみようGoogle Dataflow](https://docs.google.com/presentation/d/1n13vHdXRAazctRStp-sBUO76rD9NUZXOwFL1Sls6ulY/edit) by ubansi ([@goakafu](https://twitter.com/goakafu))
